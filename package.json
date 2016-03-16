@@ -3,12 +3,12 @@
   "version": "1.0.0",
   "description": "nice editor",
   "scripts": {
-    "start": "tnpm install && gulp watch"
+    "start": "npm install && gulp watch"
   },
   "main": "main.js",
   "repository": {
     "type": "git",
-    "url": "git@gitlab.alibaba-inc.com:bingbing.yb/niceditor.git"
+    "url": "git@github.com:yanbingbing/niceditor.git"
   },
   "devDependencies": {
     "babel-core": "^5.4.7",
